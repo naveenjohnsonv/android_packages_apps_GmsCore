@@ -424,9 +424,6 @@
             android:authorities="com.google.android.gms.chimera"
             android:exported="true" />
 
-<<<<<<< HEAD
-        <!-- microG Settings shown in Launcher -->
-=======
         <!-- microG custom UI -->
 
         <activity
@@ -440,7 +437,7 @@
         </activity>
 
         <!-- microG Settings activity -->
->>>>>>> 1c070366c530ae6eabb0e0299e7a261b4a4c9eb6
+
         <activity
             android:name="org.microg.gms.ui.SettingsActivity"
             android:exported="true">
